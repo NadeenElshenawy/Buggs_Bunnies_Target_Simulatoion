@@ -6,7 +6,7 @@ The **Target App** represents the vulnerable Windows system that communicates wi
 
 The architecture is divided into:
 
-* **Frontend (UI/UX):** Already completed by another team (QML using Qt).
+* **Frontend (UI/UX):** Already completed by another team.
 * **Backend Logic:** Implemented in **C++**.
 * **Communication Layer:** REST-like API using standard JSON.
 * **Local Database:** To store sessions, history, logs, and attack results.
