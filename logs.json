@@ -1,0 +1,36 @@
+[
+  {
+    "event": "CONNECTION_RECEIVED",
+    "details": {
+      "remote": "('127.0.0.1', 11976)"
+    }
+  },
+  {
+    "event": "CONSENT_RESPONSE",
+    "details": {
+      "agent_id": "agent-bd4df6f1",
+      "consent": "ACCEPTED"
+    }
+  },
+  {
+    "event": "CONNECTION_CLOSED",
+    "details": {}
+  },
+  {
+    "event": "CONNECTION_RECEIVED",
+    "details": {
+      "remote": "('127.0.0.1', 3267)"
+    }
+  },
+  {
+    "event": "CONSENT_RESPONSE",
+    "details": {
+      "agent_id": "agent-046808b5",
+      "consent": "ACCEPTED"
+    }
+  },
+  {
+    "event": "CONNECTION_CLOSED",
+    "details": {}
+  }
+]
